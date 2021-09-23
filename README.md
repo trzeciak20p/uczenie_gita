@@ -1,2 +1,4 @@
 # uczenie_gita
-pository rename
+
+opis
+s
